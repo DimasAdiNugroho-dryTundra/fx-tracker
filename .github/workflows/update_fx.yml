@@ -1,0 +1,46 @@
+name: Perbarui Kurs Mata Uang dan Komoditas
+
+on:
+  schedule:
+    # Berjalan setiap 30 menit (menit ke-0 dan menit ke-30 setiap jam)
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Jalankan manual dari tombol GitHub Actions
+
+permissions:
+  contents: write
+
+jobs:
+  sinkronisasi-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ambil kode terbaru dari repositori
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Siapkan environment Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instal dependensi yang diperlukan
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Jalankan script pembaruan kurs
+        run: python update_fx.py
+
+      - name: Simpan perubahan ke repositori
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "README.md tidak berubah - tidak ada yang diperbarui."
+          else
+            git commit -m "chore(automation): sinkronisasi kurs mata uang & komoditas [skip ci]"
+            git push
+          fi
