@@ -2,7 +2,7 @@ name: Perbarui Kurs Mata Uang dan Komoditas
 
 on:
   schedule:
-    # Berjalan setiap 30 menit (menit ke-0 dan menit ke-30 setiap jam)
+    # Berjalan setiap 30 menit
     - cron: '*/30 * * * *'
   workflow_dispatch: # Jalankan manual dari tombol GitHub Actions
 
@@ -12,6 +12,8 @@ permissions:
 jobs:
   sinkronisasi-data:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Mencegah deprecation warning Node.js
 
     steps:
       - name: Ambil kode terbaru dari repositori
@@ -42,5 +44,6 @@ jobs:
             echo "README.md tidak berubah - tidak ada yang diperbarui."
           else
             git commit -m "chore(automation): sinkronisasi kurs mata uang & komoditas [skip ci]"
+            git pull --rebase origin main || true
             git push
           fi

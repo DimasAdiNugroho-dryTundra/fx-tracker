@@ -47,7 +47,7 @@ class PengambilKurs:
     """Mengambil kurs valuta asing terhadap IDR menggunakan API publik."""
 
     API_PRIMARY = "https://api.frankfurter.app/latest"
-    API_FALLBACK = "https://open-er-api.com/v6/latest/USD"
+    API_FALLBACK = "https://open.er-api.com/v6/latest/USD"
 
     @classmethod
     def AmbilKurs(cls) -> Dict[str, float]:
