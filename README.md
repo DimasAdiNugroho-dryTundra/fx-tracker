@@ -1,4 +1,4 @@
-# �acak Tracker Kurs Rupiah Indonesia dan Komoditas Global
+# Tracker Kurs Rupiah Indonesia dan Komoditas Global
 
 Dashboard ini memperbarui data pasar finansial dan komoditas global secara otomatis menggunakan GitHub Actions.
 
