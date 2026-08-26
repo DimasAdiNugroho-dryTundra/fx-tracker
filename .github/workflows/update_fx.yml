@@ -37,8 +37,8 @@ jobs:
 
       - name: Simpan perubahan ke repositori
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "DimasAdiNugroho-dryTundra"
+          git config --global user.email "dimasadi030512@gmail.com"
           git add README.md
           if git diff --staged --quiet; then
             echo "README.md tidak berubah - tidak ada yang diperbarui."
