@@ -2,10 +2,10 @@
 
 Dashboard ini memperbarui data pasar finansial dan komoditas global secara otomatis menggunakan GitHub Actions.
 
-*****************************************************************<!--START_SECTION:fx-rates-->*
+******************************************************************<!--START_SECTION:fx-rates-->*
 
 > 🔄 **Pembaruan Otomatis Pasar Finansial & Komoditas**
-> *Terakhir disinkronkan:* `28-08-2026 12:57:58 WITA (UTC+8)`
+> *Terakhir disinkronkan:* `29-08-2026 01:06:32 WITA (UTC+8)`
 
 ### 💱 Nilai Tukar Mata Uang (Terhadap IDR)
 
@@ -24,7 +24,7 @@ Dashboard ini memperbarui data pasar finansial dan komoditas global secara otoma
 | 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.340.703,44** | 📈 Aktif |
 | 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.463.956,16** | 📈 Aktif |
 
-*<!--END_SECTION:fx-rates-->*****************************************************************
+*<!--END_SECTION:fx-rates-->******************************************************************
 
 ---
 
