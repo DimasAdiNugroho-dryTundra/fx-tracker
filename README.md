@@ -2,29 +2,29 @@
 
 Dashboard ini memperbarui data pasar finansial dan komoditas global secara otomatis menggunakan GitHub Actions.
 
-******************************************************************<!--START_SECTION:fx-rates-->*
+*******************************************************************<!--START_SECTION:fx-rates-->*
 
 > 🔄 **Pembaruan Otomatis Pasar Finansial & Komoditas**
-> *Terakhir disinkronkan:* `29-08-2026 01:06:32 WITA (UTC+8)`
+> *Terakhir disinkronkan:* `29-08-2026 09:01:32 WITA (UTC+8)`
 
 ### 💱 Nilai Tukar Mata Uang (Terhadap IDR)
 
 | Mata Uang | Simbol | Nilai Terkini (IDR) | Status/Tren |
 | :--- | :---: | :--- | :---: |
-| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.744,92** | 🟢 Stabil |
-| 🇪🇺 Euro | `EUR` | **Rp 20.675,32** | 🟢 Stabil |
-| 🇸🇬 Dolar Singapura | `SGD` | **Rp 13.960,85** | 🟢 Stabil |
-| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.137,41** | 🟢 Stabil |
-| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 24.115,91** | 🟢 Stabil |
+| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.701,34** | 🟢 Stabil |
+| 🇪🇺 Euro | `EUR` | **Rp 20.550,60** | 🟢 Stabil |
+| 🇸🇬 Dolar Singapura | `SGD` | **Rp 13.910,93** | 🟢 Stabil |
+| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.068,53** | 🟢 Stabil |
+| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 23.989,85** | 🟢 Stabil |
 
 ### 🛢️ Komoditas Global Utama
 
 | Komoditas | Satuan | Harga (USD) | Estimasi Nilai (IDR) | Indikator |
 | :--- | :---: | :---: | :--- | :---: |
-| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.340.703,44** | 📈 Aktif |
-| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.463.956,16** | 📈 Aktif |
+| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.337.410,64** | 📈 Aktif |
+| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.460.360,65** | 📈 Aktif |
 
-*<!--END_SECTION:fx-rates-->******************************************************************
+*<!--END_SECTION:fx-rates-->*******************************************************************
 
 ---
 
