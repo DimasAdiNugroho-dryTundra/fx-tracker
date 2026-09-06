@@ -2,29 +2,29 @@
 
 Dashboard ini memperbarui data pasar finansial dan komoditas global secara otomatis menggunakan GitHub Actions.
 
-************************************************************************************************************************<!--START_SECTION:fx-rates-->*
+*************************************************************************************************************************<!--START_SECTION:fx-rates-->*
 
 > 🔄 **Pembaruan Otomatis Pasar Finansial & Komoditas**
-> *Terakhir disinkronkan:* `06-09-2026 07:01:13 WITA (UTC+8)`
+> *Terakhir disinkronkan:* `06-09-2026 09:06:34 WITA (UTC+8)`
 
 ### 💱 Nilai Tukar Mata Uang (Terhadap IDR)
 
 | Mata Uang | Simbol | Nilai Terkini (IDR) | Status/Tren |
 | :--- | :---: | :--- | :---: |
-| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.674,22** | 🟢 Stabil |
-| 🇪🇺 Euro | `EUR` | **Rp 20.524,76** | 🟢 Stabil |
-| 🇸🇬 Dolar Singapura | `SGD` | **Rp 13.951,84** | 🟢 Stabil |
-| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.318,26** | 🟢 Stabil |
-| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 23.896,61** | 🟢 Stabil |
+| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.666,77** | 🟢 Stabil |
+| 🇪🇺 Euro | `EUR` | **Rp 20.517,38** | 🟢 Stabil |
+| 🇸🇬 Dolar Singapura | `SGD` | **Rp 13.946,99** | 🟢 Stabil |
+| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.312,32** | 🟢 Stabil |
+| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 23.885,09** | 🟢 Stabil |
 
 ### 🛢️ Komoditas Global Utama
 
 | Komoditas | Satuan | Harga (USD) | Estimasi Nilai (IDR) | Indikator |
 | :--- | :---: | :---: | :--- | :---: |
-| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.335.361,40** | 📈 Aktif |
-| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.458.123,02** | 📈 Aktif |
+| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.334.798,88** | 📈 Aktif |
+| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.457.508,79** | 📈 Aktif |
 
-*<!--END_SECTION:fx-rates-->************************************************************************************************************************
+*<!--END_SECTION:fx-rates-->*************************************************************************************************************************
 
 ---
 
