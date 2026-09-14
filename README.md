@@ -2,29 +2,29 @@
 
 Dashboard ini memperbarui data pasar finansial dan komoditas global secara otomatis menggunakan GitHub Actions.
 
-**********************************************************************************************************************************************************************************<!--START_SECTION:fx-rates-->*
+***********************************************************************************************************************************************************************************<!--START_SECTION:fx-rates-->*
 
 > 🔄 **Pembaruan Otomatis Pasar Finansial & Komoditas**
-> *Terakhir disinkronkan:* `14-09-2026 07:14:31 WITA (UTC+8)`
+> *Terakhir disinkronkan:* `14-09-2026 09:15:28 WITA (UTC+8)`
 
 ### 💱 Nilai Tukar Mata Uang (Terhadap IDR)
 
 | Mata Uang | Simbol | Nilai Terkini (IDR) | Status/Tren |
 | :--- | :---: | :--- | :---: |
-| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.603,77** | 🟢 Stabil |
-| 🇪🇺 Euro | `EUR` | **Rp 20.425,85** | 🟢 Stabil |
-| 🇸🇬 Dolar Singapura | `SGD` | **Rp 13.892,91** | 🟢 Stabil |
-| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.446,05** | 🟢 Stabil |
-| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 23.806,61** | 🟢 Stabil |
+| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.623,72** | 🟢 Stabil |
+| 🇪🇺 Euro | `EUR` | **Rp 20.439,31** | 🟢 Stabil |
+| 🇸🇬 Dolar Singapura | `SGD` | **Rp 13.909,12** | 🟢 Stabil |
+| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.472,90** | 🟢 Stabil |
+| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 23.832,48** | 🟢 Stabil |
 
 ### 🛢️ Komoditas Global Utama
 
 | Komoditas | Satuan | Harga (USD) | Estimasi Nilai (IDR) | Indikator |
 | :--- | :---: | :---: | :--- | :---: |
-| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.330.038,93** | 📈 Aktif |
-| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.452.311,25** | 📈 Aktif |
+| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.331.545,75** | 📈 Aktif |
+| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.453.956,60** | 📈 Aktif |
 
-*<!--END_SECTION:fx-rates-->**********************************************************************************************************************************************************************************
+*<!--END_SECTION:fx-rates-->***********************************************************************************************************************************************************************************
 
 ---
 
