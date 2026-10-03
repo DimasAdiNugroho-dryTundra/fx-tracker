@@ -2,29 +2,29 @@
 
 Dashboard ini memperbarui data pasar finansial dan komoditas global secara otomatis menggunakan GitHub Actions.
 
-*************************************************************************************************************************************************************************************************************************************************************************************************<!--START_SECTION:fx-rates-->*
+**************************************************************************************************************************************************************************************************************************************************************************************************<!--START_SECTION:fx-rates-->*
 
 > 🔄 **Pembaruan Otomatis Pasar Finansial & Komoditas**
-> *Terakhir disinkronkan:* `03-10-2026 07:32:53 WITA (UTC+8)`
+> *Terakhir disinkronkan:* `03-10-2026 10:26:08 WITA (UTC+8)`
 
 ### 💱 Nilai Tukar Mata Uang (Terhadap IDR)
 
 | Mata Uang | Simbol | Nilai Terkini (IDR) | Status/Tren |
 | :--- | :---: | :--- | :---: |
-| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.970,43** | 🟢 Stabil |
-| 🇪🇺 Euro | `EUR` | **Rp 20.252,70** | 🟢 Stabil |
-| 🇸🇬 Dolar Singapura | `SGD` | **Rp 14.034,07** | 🟢 Stabil |
-| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.379,24** | 🟢 Stabil |
-| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 23.734,96** | 🟢 Stabil |
+| 🇺🇸 Dolar Amerika Serikat | `USD` | **Rp 17.883,05** | 🟢 Stabil |
+| 🇪🇺 Euro | `EUR` | **Rp 20.121,52** | 🟢 Stabil |
+| 🇸🇬 Dolar Singapura | `SGD` | **Rp 13.977,39** | 🟢 Stabil |
+| 🇯🇵 Yen Jepang (100 JPY) | `100 JPY` | **Rp 11.331,64** | 🟢 Stabil |
+| 🇬🇧 Poundsterling Inggris | `GBP` | **Rp 23.645,03** | 🟢 Stabil |
 
 ### 🛢️ Komoditas Global Utama
 
 | Komoditas | Satuan | Harga (USD) | Estimasi Nilai (IDR) | Indikator |
 | :--- | :---: | :---: | :--- | :---: |
-| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.357.741,23** | 📈 Aktif |
-| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.482.560,26** | 📈 Aktif |
+| 🪙 Emas (Gold) | `per gram` | $75.55 | **Rp 1.351.139,13** | 📈 Aktif |
+| 🪙 Minyak Mentah (Brent Crude) | `per barrel` | $82.50 | **Rp 1.475.351,22** | 📈 Aktif |
 
-*<!--END_SECTION:fx-rates-->*************************************************************************************************************************************************************************************************************************************************************************************************
+*<!--END_SECTION:fx-rates-->**************************************************************************************************************************************************************************************************************************************************************************************************
 
 ---
 
